@@ -1,0 +1,33 @@
+{
+		
+"op1":	{
+			"commentaire" : "Quick",
+			"identifiant" : 1,
+			"montant" : 10.3,
+			"numeroDeCompteCible" : "numeroCompteCible",
+			"effectue" : "done",
+			"dateDuFlux" : "date",
+			"fluxType" : "debit",
+			"compteDebit" : {	"libelle" : "test",
+								"solde" : 20.2,
+								"numeroDeCompte" : 1,
+								"nbCompte" : 2
+							}
+		},
+
+"op2":	{
+			"commentaire" : "manger",
+			"identifiant" : 2,
+			"montant" : 3.89,
+			"numeroDeCompteCible" : "IDCompteCible",
+			"effectue" : "done",
+			"dateDuFlux" : "date",
+			"fluxType" : "debit",
+			"compteDebit" : {	"libelle" : "test",
+								"solde" : 17.2,
+								"numeroDeCompte" : 2,
+								"nbCompte" : 3
+							}
+		}
+
+}
