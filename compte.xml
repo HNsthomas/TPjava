@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listeComptes>
+	<compte type = "Courant">
+		<libelle>Compt test</libelle>
+		<solde>100.5</solde>
+		<numeroDeCompte>1</numeroDeCompte>
+		<client>
+			<nom>Test</nom>
+			<prenom>PrenomTest</prenom>
+			<numeroClient>1</numeroClient>
+		</client>
+	</compte>
+	<compte type = "Epargne">
+		<libelle>Compte test</libelle>
+		<solde>1500</solde>
+		<numeroDeCompte>2</numeroDeCompte>
+		<client>
+			<nom>Testeur</nom>
+			<prenom>PrenomTesteur</prenom>
+			<numeroClient>2</numeroClient>
+		</client>
+	</compte>
+</listeDesComptes>
